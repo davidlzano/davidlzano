@@ -46,9 +46,9 @@ In production it covers 22 work centers and made it possible to recover from a r
 
 ## Tools
 
-**Data:** SQL Server · SQL · ETL processes · dimensional modeling · master data (MDM)
-**Python:** pandas · NumPy · Flask · API consumption · automation
-**BI:** Power BI · DAX · advanced Excel (Power Query, Power Pivot, VBA)
+- **Data:** SQL Server · SQL · ETL processes · dimensional modeling · master data (MDM)
+- **Python:** pandas · NumPy · Flask · API consumption · automation
+- **BI:** Power BI · DAX · advanced Excel (Power Query, Power Pivot, VBA)
 
 ---
 
