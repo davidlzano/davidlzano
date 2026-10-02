@@ -2,7 +2,7 @@
 
 **Data & Business Intelligence Analyst** · Medellín, Colombia
 
-I work on the part of data that almost nobody sees: the integration, modeling and automation that make a dashboard mean something. I spent four years inside operations before moving to data full time, and that path shapes how I work — I understand why data arrives dirty, who types it in, and which decision depends on it.
+I work on the part of data that almost nobody sees: the integration, modeling and automation that make a dashboard mean something. I started in quality and moved into data full time, and that path shapes how I work — I understand why data arrives dirty, who types it in, and which decision depends on it.
 
 Today I build Python ETL pipelines against transactional-system APIs, model historical data with versioning in SQL Server, develop internal data-capture applications, and design engines that generate operational plans under real constraints.
 
